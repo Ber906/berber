@@ -1,14 +1,8 @@
 {
-	"name": "Yujiru",
-	"version": "2.0.1",
-	"credits": `
-██████╗░███████╗██████╗░
-██╔══██╗██╔════╝██╔══██╗
-██████╦╝█████╗░░██████╔╝
-██╔══██╗██╔══╝░░██╔══██╗
-██████╦╝███████╗██║░░██║
-╚═════╝░╚══════╝╚═╝░░╚═╝`,
-	"main": "Yujiru.js",
+	"name": "Berberlovesyou",
+	"version": "V1",
+	"credits": "BER-SY",
+	"main": "shinji.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
