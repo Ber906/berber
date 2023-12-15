@@ -1,8 +1,8 @@
 {
 	"name": "Berberlovesyou",
 	"version": "V1",
-	"credits": "BER-SY",
-	"main": "shinji.js",
+	"credits": "𝙰𝙸𝙽𝚉",
+	"main": "ainz.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
